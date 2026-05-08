@@ -70,4 +70,4 @@ for row in range(100):
 
     results.append((username, password))
 
-    print("Row {}: {} / {}".format(row, username, password))
+    print(" {}: {} : {}".format(row, username, password))
